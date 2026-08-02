@@ -1,0 +1,15 @@
+python
+sql
+machine learning
+deep learning
+tensorflow
+pytorch
+pandas
+numpy
+docker
+aws
+git
+linux
+streamlit
+fastapi
+flask
