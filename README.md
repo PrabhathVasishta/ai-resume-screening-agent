@@ -65,6 +65,29 @@ pip install -r requirements.txt
 ```
 
 ---
+## Sample Files
+
+The repository contains sample files for quick evaluation.
+
+### Sample Job Description
+
+```
+data/job_description/sample_jd.pdf
+```
+
+### Sample Resumes
+
+```
+data/resumes/
+```
+
+Run the application:
+
+```bash
+python -m streamlit run app.py
+```
+
+Upload the sample Job Description and sample resumes to immediately test the application.
 
 ## Configure API Key
 
