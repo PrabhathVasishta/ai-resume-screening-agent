@@ -54,7 +54,7 @@ class ResumeSectionParser:
 
             for section, names in self.headings.items():
 
-                if lower in names:
+                if len(line) < 40 and any(n in lower for n in names):
                     current = section
                     break
             else:
